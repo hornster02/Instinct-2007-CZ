@@ -31,3 +31,5 @@ Autohotkey v1.1 https://github.com/hornster02/Instinct-2007-CZ/raw/main/script.r
 C - přepínač skrčení
 
 V souboru ```user_data\config_engine\ds2engine.cfg``` je možné zapnout HDR
+
+CZ EXE https://github.com/hornster02/Instinct-2007-CZ/raw/main/exe-cz.rar
