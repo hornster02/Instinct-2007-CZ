@@ -8,10 +8,6 @@ Chyby
 <br/>
 https://github.com/hornster02/Instinct-2007-CZ/raw/main/dll-audio.rar
 
--pokud v systému chybí Intel Indeo kodek (hra se bude nekonečně dlouho "nahrávat" - ve skutečnosti vyskočí v pozadí upozornění, že není možné video přehrát), tak je možné použít toto (nakopírovat DLL do systému pokud chybí. Pokud nechybí, tak by mělo stačit importovat data do registru "video.reg"). Hra při instalaci tyto data do registru zapíše - problém se může vyskytnout asi jen u portable verzí hry
-<br/>
-https://github.com/hornster02/Instinct-2007-CZ/raw/main/dll-video-win7.rar
-
 -pokud se načítání některých misí zasekne, tak v pozadí systému vyskočilo upozornění a stačí ho potvrdit (ALT+TAB+ŠIPKY+ENTER. Přepnout na režim v okně pokud to nejde - Autohotkey borderless fullscreen skript na mém profilu)
 
 -pokud je na začátku úrovně "Depot" prázdná jednobarevná obrazovka tak je možné použít toto
