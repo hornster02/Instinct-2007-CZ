@@ -3,10 +3,6 @@ MYABANDONWARE - ISO Version (2024-04)
 Velikost 49MB https://drive.google.com/drive/folders/1IcvIdmOakt6ziIYni5Mkdmn4_0JIP-bE
 
 Chyby
-<br/>
--pokud v systému chybí OpenAL knihovny, tak je možné použít toto (nakopírovat do hry)
-<br/>
-https://github.com/hornster02/Instinct-2007-CZ/raw/main/dll-audio.rar
 
 -pokud se načítání některých misí zasekne, tak v pozadí systému vyskočilo upozornění a stačí ho potvrdit (ALT+TAB+ŠIPKY+ENTER. Přepnout na režim v okně pokud to nejde - Autohotkey borderless fullscreen skript na mém profilu)
 
